@@ -110,5 +110,5 @@ This ensures users are equipped with real-time market information, which can inf
 
 ---
 
-## 10. Conclusion
+## 9. Conclusion
 Stockly stands out as a user-friendly and feature-rich iOS application that brings the experience of stock market tracking and simulated trading to mobile devices. With a clean interface, intuitive navigation, and functionality divided across clearly defined sections—Portfolio, Stock Chart, Stocks by Sector, and News—the app delivers a comprehensive environment for users to analyze, interact with, and learn about stock market behavior. From real-time visual insights to sector-wise stock exploration and a smooth transaction simulation process, Stockly successfully mimics essential aspects of a modern stock trading platform. Additionally, its use of native iOS technologies ensures responsive performance and seamless transitions. With potential enhancements such as biometric login, real-time APIs, and dark mode, Stockly has strong potential for future development—either as a learning tool, prototype, or market-ready product.
