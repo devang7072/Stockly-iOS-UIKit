@@ -1,5 +1,7 @@
 # 📈 Stockly App
 
+  ![j](https://github.com/user-attachments/assets/82387fa0-3789-454f-b5ae-d68a854495fa)
+
 ## 1. Introduction
 **Stockly** is a feature-rich iOS application designed for individuals interested in stock market tracking, analysis, and simulation of trading operations. Built with **UIKit**, it leverages Apple’s native interface elements to ensure a smooth and responsive user experience. The app features a multi-tab layout enabling users to access different functionalities like portfolio tracking, detailed stock charts, categorized stock sectors, and global financial news. Stockly is designed with both novice and intermediate traders in mind, offering ease of use and robust data presentation.
 
@@ -14,6 +16,8 @@ Immediately after the splash screen, the user is taken to the login page. The lo
 
 In the event of incorrect credentials, a system-generated alert appears, explaining the failure reason—such as incorrect username or password—along with an option to re-enter the data.
 
+![Screenshot 2025-06-24 194035](https://github.com/user-attachments/assets/ba56c0ac-dd0e-4c24-8e65-9d1f95873931)
+
 ---
 
 ## 3. Navigation Using Tab Bar Controller
@@ -24,6 +28,8 @@ The application leverages a **UITabBarController** that provides seamless switch
 - **News**
 
 Each tab opens a dedicated view controller offering specialized functionality and data visualization. This design makes the app intuitive and ensures users always know where they are within the app.
+
+![Screenshot 2025-06-24 194056](https://github.com/user-attachments/assets/f7f826c3-50ad-4f87-a85c-6cfd618a62f2)
 
 ---
 
@@ -36,6 +42,8 @@ This section provides a summarized view of the user's stock investment data. Key
 Below these statistics, a dynamic **UITableView** lists top-performing stocks with the following:
 - Stock image (icon or logo)
 - Stock name
+  
+![Screenshot 2025-06-24 194124](https://github.com/user-attachments/assets/463ab977-489c-4cb6-94df-a6e68e979925)
 
 ---
 
@@ -45,6 +53,8 @@ This tab focuses on the graphical representation of stock price trends. It inclu
 - A chart area above that dynamically updates when a user selects a stock.
 
 The chart provides visual insights into stock movement over time, helping users to make more informed decisions based on trend analysis.
+
+![Screenshot 2025-06-24 194124](https://github.com/user-attachments/assets/463ab977-489c-4cb6-94df-a6e68e979925)
 
 ---
 
@@ -71,6 +81,8 @@ Each Buy/Sell button opens a new view controller where the user can:
 
 Upon payment, a confirmation screen is displayed with the message: 'Payment received successfully.'
 
+![Screenshot 2025-06-24 194153](https://github.com/user-attachments/assets/3b484eb7-01ae-4069-b011-af6b1a49514f)
+
 ---
 
 ## 7. News Section
@@ -81,6 +93,8 @@ A toolbar is located at the bottom with two buttons:
 - **Global News**: Shows international stock market updates and financial news.
 
 This ensures users are equipped with real-time market information, which can influence trading decisions.
+
+![Screenshot 2025-06-24 194219](https://github.com/user-attachments/assets/6a8c19eb-a6eb-4bd1-9020-b06ee01008dd)
 
 ---
 
